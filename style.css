@@ -23,5 +23,74 @@ color:white
 }
 
 .naometais{
-    color:purple
+background-color:#ab90ff
+}
+
+.grupos{
+border-color: white;
+text-align: center;   
+}
+
+.periodos{
+border-color: white;
+text-align: right;
+}
+
+.metaisalcalinos{
+background-color:#fec58f
+}
+
+.alcalinoterrosos{
+background-color: #ffdf92;  
+}
+
+.metaisdetransicao{
+background-color: #ecff91;    
+}
+
+.outrosmetais{
+background-color: #fef991;    
+}
+
+.propriedadesdesconhecidas{
+background-color: #c8c8c8;    
+}
+
+.semimetais{
+background-color: #91ff9e;    
+}
+
+.halogenios{
+background-color: #f992ff;        
+}
+
+.gasesnobres{
+background-color: #90dffe    
+}
+
+.latanideos{
+background-color: #d1ff92;
+}
+
+.actinideos{
+background-color:#b7fe99;    
+}
+
+.simbolo{ 
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+line-height: 1px;
+}
+.nome{
+font-size: 10px;
+font-weight: bold;
+text-align: left;
+line-height: 0px;
+}
+.atm{
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+line-height: 0px;
 }
